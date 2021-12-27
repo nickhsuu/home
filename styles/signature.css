@@ -4,7 +4,7 @@
     text-align: center;
     background-color: #222831;
     width: 100%;
-    padding: 30vh 0 10vh 0;
+    padding: 10vh 0 10vh 0;
 }
 
 #signature p,
@@ -25,6 +25,3 @@
     text-decoration: none;
 }
 
-#footer button:hover {
-    color: paleturquoise;
-}
